@@ -1,0 +1,1 @@
+## The file "Bank_turnover_churn.ipynb" containing the model code and all the preprocessing done on the dataset. Feel free to use this code however you like. If you have any suggestions feel free to contact at [linkedin](https://www.linkedin.com/in/hamza-amir-0616m) or through email; hamzaamir0616@gmail.com
